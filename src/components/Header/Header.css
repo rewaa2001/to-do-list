@@ -1,0 +1,13 @@
+.header {
+  background-color: #9f7aea; /* purple-400 */
+  color: white;
+  text-align: center;
+  padding: 12px 0;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+.header-title {
+  font-size: 1.125rem; /* text-lg */
+  font-weight: 600; /* font-semibold */
+}

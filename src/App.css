@@ -1,0 +1,15 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #faf5ff; /* purple-100 */
+}
+
+.todo-wrapper {
+  width: 350px;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  background-color: #f9fafb;
+}
